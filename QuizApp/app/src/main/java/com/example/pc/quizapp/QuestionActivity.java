@@ -8,6 +8,7 @@ import android.view.MenuItem;
 
 public class QuestionActivity extends AppCompatActivity {
 
+   // DatabaseReference mRootRef = FirebaseDatabase.getInstance().getReference();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
